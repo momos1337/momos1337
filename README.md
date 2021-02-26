@@ -1,4 +1,5 @@
 ## Hey 👋, I'm Fadhli Almunawar
+![OS Badge](https://img.shields.io/badge/OS-linux-blue?&logo=Linux)
 [![Gmail Badge](https://img.shields.io/badge/-almunawarfadhli@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:almunawarfadhli@gmail.com)](mailto:almunawarfadhli@gmail.com) 
 [![Github Badge](https://img.shields.io/badge/-momos1337-grey?style=flat&logo=github&logoColor=white&link=https://github.com/momos1337/)](https://www.github.com/momos1337/)
 [![Twitter Badge](https://img.shields.io/badge/-fadhlimomos_-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/fadhlimomos_/)](https://www.twitter.com/fadhlimomos_/)
