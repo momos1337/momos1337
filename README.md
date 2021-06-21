@@ -5,12 +5,8 @@
 [![Twitter Badge](https://img.shields.io/badge/-fadhlimomos_-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/fadhlimomos_/)](https://www.twitter.com/fadhlimomos_/)
 <p align='left'>I'm a script kiddie and penetration tester and I'm interested in a world of programming and here are some of the programming languages ​​I use</p>
 
-![HTML](https://img.shields.io/badge/-HTML-282A36?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-282A36?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-282A36?style=flat&logo=javascript)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-282A36?style=flat&logo=PHP)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-282A36?style=flat&logo=bootstrap)&nbsp;
-![Laravel](https://img.shields.io/badge/-Laravel-282A36?style=flat&logo=laravel)&nbsp;
 ![C++](https://img.shields.io/badge/C++-282A36?style=flat&logo=c%2B%2B)&nbsp;
 
 ## My Github Stats
