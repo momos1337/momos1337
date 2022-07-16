@@ -1,3 +1,4 @@
+![Chizuru](https://c.tenor.com/OJ7dWLRs3JAAAAAC/mizuhara-chizuru.gif)
 ## Hey 👋, I'm Fadhli Almunawar
 ![OS Badge](https://img.shields.io/badge/OS-linux-blue?&logo=Linux)
 [![Gmail Badge](https://img.shields.io/badge/-almunawarfadhli@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:almunawarfadhli@gmail.com)](mailto:almunawarfadhli@gmail.com) 
