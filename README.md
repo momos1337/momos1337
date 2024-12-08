@@ -3,7 +3,6 @@
 ![OS Badge](https://img.shields.io/badge/OS-linux-blue?&logo=Linux)
 [![Gmail Badge](https://img.shields.io/badge/-almunawarfadhli@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:almunawarfadhli@gmail.com)](mailto:almunawarfadhli@gmail.com) 
 [![Github Badge](https://img.shields.io/badge/-momos1337-grey?style=flat&logo=github&logoColor=white&link=https://github.com/momos1337/)](https://www.github.com/momos1337/)
-[![Twitter Badge](https://img.shields.io/badge/-fadhlimomos_-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/fadhlimomos_/)](https://www.twitter.com/fadhlimomos_/)
 <p align='left'>I'm a script kiddie and penetration tester and I'm interested in a world of programming and here are some of the programming languages ​​I use</p>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-282A36?style=flat&logo=javascript)&nbsp;
